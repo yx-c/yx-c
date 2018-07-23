@@ -59,7 +59,7 @@ pagination_dir: page
 # Disqus #Disqus评论，替换为多说
 disqus_shortname:
 # Extensions #拓展插件
-theme: jekyll-theme-cayman #主题
+theme: landscape #主题
 exclude_generator:
 plugins: #插件，例如生成 RSS 和站点地图的
 - hexo-generator-feed
